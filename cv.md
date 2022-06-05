@@ -5,7 +5,7 @@
 * **E-mail:** ironmaiden210587@gmail.com
 
 ## **About me:**
-Hello everyone! :) My name is Andrey and I am 35 years old. I'm studying in Rolling Scopes School at Front-End/JS course.
+Hi everyone! :) My name is Andrei and I am 35 years old. I'm studying in Rolling Scopes School at Front-End/JS course.
 
 ## **Skills:**
 * HTML
